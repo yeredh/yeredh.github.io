@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yered H Pita-Juarez on Yered H Pita-Juarez</title>
+    <title>Yered H Pita-Juárez on Yered H Pita-Juárez</title>
     <link>https://yeredh.github.io/</link>
-    <description>Recent content in Yered H Pita-Juarez on Yered H Pita-Juarez</description>
+    <description>Recent content in Yered H Pita-Juárez on Yered H Pita-Juárez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>2018</copyright>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
