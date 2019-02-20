@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>The Pathway Coexpression Network: Revealing pathway relationships</title>
+      <link>https://yeredh.github.io/publication/pcxn/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://yeredh.github.io/publication/pcxn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>https://yeredh.github.io/talk/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
@@ -453,15 +462,6 @@ git submodule update --init --recursive
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The Pathway Coexpression Network: Revealing pathway relationships</title>
-      <link>https://yeredh.github.io/publication/pcxn/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
-      
-      <guid>https://yeredh.github.io/publication/pcxn/</guid>
-      <description></description>
     </item>
     
     <item>
