@@ -1,0 +1,51 @@
+---
+title: "Yered H Pita-Juarez"
+image: "yered.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/yered-pita-juarez-92029721/"
+  - label: Twitter
+    url: "https://twitter.com/yered_h"
+  - label: GitHub
+    url: "https://github.com/yeredh"
+  - label: Email
+    url: "mailto:yhpitaju@bidmc.harvard.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am a research fellow in the [Vlachos lab](http://non-coding.org/) at the Department of Pathology, Beth Israel Deaconess Medical Center (BIDMC), Harvard Medical School. My research focuses on two areas: developing 1) Efficient integration of orthogonal high throughput assays 2) Methods to prioritize key cell types and pathways from next generation sequencing data (bulk, single cell, and spatial). I have a broad background in biostatistics, with expertise on harnessing statistical models to solve problems but also extensive experience in translational research and applications. As a researcher in the Vlachos lab and the BIDMC [Spatial Technologies Unit](http://spatialtechnology.org/), I am now leading extensive research efforts integrating cutting-edge single cell and spatial tissue profiling technologies for the investigation of human pathologies.
+
+I received my PhD in the Department of Biostatistics at Harvard University where I was advised by [Rafael Irizarry](http://rafalab.github.io/) and [Winston Hide](https://hsci.harvard.edu/people/winston-hide-phd). 
+
+
+
+## Education
+
+**Harvard University** | Cambridge, MA
+
+Ph.D. in Biostatistics | 2018
+
+**Harvard University** | Cambridge, MA
+
+A.M. in Biostatistics | 2012
+
+
+**California State University, Sacramento** | Sacramento, CA
+
+B.A. in Applied Mathematics and Statistics | 2009
+
+ *summa cum laude*  
+
+
+## Experience
+
+**Beth Israel Deaconess Medical Center** | Research Fellow | June 2019 - Present
+
+**Broad Institute of MIT and Harvard** | Affiliate Postdoctoral Scholar | December 2019 - Present
+
+**Dana Farber Cancer Institute** | Research Fellow | September 2017 - June 2019
+
+
